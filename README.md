@@ -39,6 +39,7 @@ Incluye scripts automatizados, bitácora técnica y estructura organizada para a
 git clone https://github.com/WolfrankVillamil/ros2-rpi5-setup.git
 cd ros2-rpi5-setup/setup
 bash install_ros2_jazzy.sh
+
 💡 Nota: Se recomienda ejecutar el script directamente en la Raspberry Pi con Ubuntu 24.04 LTS instalado.
 
 🗂 Estructura del repositorio
@@ -64,7 +65,7 @@ Script de prueba: scripts/lanzar_nodo_prueba.sh
 
 🧠 ¿Por qué este repositorio?
 Existen muchas guías en inglés, pero muy pocas en español que sean claras, limpias y adaptadas al entorno real de trabajo con Raspberry Pi 5 y ROS 2.
-Esta documentación busca llenar ese vacío y servir como base para proyectos más grandes como SIMRA u otros desarrollos con ROS.
+Esta documentación busca llenar ese vacío y servir como base para proyectos más grandes u otros desarrollos con ROS.
 
 📝 Créditos y licencia
 Creado por Wolfrank Villamil
