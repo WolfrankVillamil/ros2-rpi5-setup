@@ -7,7 +7,7 @@ La idea es que cualquier persona hispanohablante pueda repetir el proceso sin pe
 
 ## 📅 Fecha
 
-(Completar cuando se ejecute en la Raspberry Pi)
+25 de julio del 2025
 
 ---
 
